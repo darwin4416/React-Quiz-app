@@ -8,7 +8,7 @@ const quizData =[
         C:"Ghost",
         D:"Gargamel",
       },
-      correct:"Ghost"
+      correct:"C"
     },
     {
       key:"2",
@@ -19,7 +19,7 @@ const quizData =[
         C:"Ramsay",
         D:"Eddard",
       },
-      correct:"Rickon"
+      correct:"A"
     },
     {
       key:"3",
@@ -30,7 +30,7 @@ const quizData =[
         C:"Robin",
         D:"Nedwell",
       },
-      correct:"Robin"
+      correct:"C"
     },
     {
       key:"4",
@@ -41,7 +41,7 @@ const quizData =[
         C:"Godsfire",
         D:"Pantsonfire",
       },
-      correct:"Wildfire"
+      correct:"A"
     },
      {
       key:"5",
@@ -52,7 +52,7 @@ const quizData =[
         C:"The Assassin's Dagger",
         D:"Tales Of Topographic Oceans",
       },
-      correct:"The Rains Of Castermere"
+      correct:"A"
     }
   ];
 
